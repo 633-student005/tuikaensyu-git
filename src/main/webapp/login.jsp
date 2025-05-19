@@ -20,7 +20,7 @@
             <p>ユーザー名とパスワードを入力してください。</p>
             
             <form action="/tuikaensyu/BooksManagementServlet" method="post">
-				ユーザー名：<br>
+				email：<br>
                     <input type="text" name="email" placeholder="ユーザー名を入力" autocomplete="off" required><br>
 				パスワード：<br>
                     <input type="password" name="password" placeholder="パスワードを入力" autocomplete="off" required><br>
