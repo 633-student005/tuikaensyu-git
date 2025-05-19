@@ -14,7 +14,7 @@
 </head>
 <body>
     <header>
-        <h1>図書館管理システム＜トップページ＞</h1>
+        <h1>図書館管理システム＜エラー表示ページ＞</h1>
     </header>
     <jsp:include page="/navigate.jsp" />
     <main>
