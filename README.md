@@ -19,7 +19,7 @@ STEP5
 => ファイルの新規から動的Webプロジェクトを選択し、「tuikaensyu」として作成する
 
 STEP6  
-=> 作成したフォルダ内にtuikaensyu-git直下のフォルダとファイルをすべてコピーする
+=> 作成したフォルダ内にtuikaensyu-git直下の.settings、build、src、.classpath、.projectをコピーペーストする
 
 STEP7  
 => サーバーを立ち上げて下記アドレスにアクセスし接続を確認する
