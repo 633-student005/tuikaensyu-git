@@ -23,4 +23,5 @@ STEP6
 
 STEP7  
 => サーバーを立ち上げて下記アドレスにアクセスし接続を確認する
+
 アドレス：http://localhost:8080/tuikaensyu/BooksManagementServlet
