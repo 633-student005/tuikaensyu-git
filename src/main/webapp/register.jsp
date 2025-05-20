@@ -25,7 +25,7 @@
                 郵便番号：<br>
                 <input type="text" name="postal_code" placeholder="郵便番号を入力してください(半角ハイフンなし)" autocomplete="off" required><br>
                 住所：<br>
-                <input type="text" name="address" placeholder="住所を入力してください" required><br>
+                <input type="text" name="address" placeholder="住所を入力してください" autocomplete="off" required><br>
                 電話番号：<br>
                 <input type="text" name="phone_number" placeholder="電話番号を入力してください(半角ハイフンなし)" autocomplete="off" required><br>
                 メールアドレス：<br>
