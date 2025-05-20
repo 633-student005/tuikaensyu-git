@@ -17,7 +17,7 @@
     <main>
         <div class="login-container">
             <h2>ログイン</h2>
-            <p>ユーザー名とパスワードを入力してください。</p>
+            <p>メールアドレスとパスワードを入力してください。</p>
             
             <form action="/tuikaensyu/BooksManagementServlet" method="post">
 				email：<br>
